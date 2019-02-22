@@ -13,12 +13,12 @@
     ],
     "author": "Graham Jenson <grahamjenson@maori.geek.nz>",
     "dependencies": {
-        "bluebird": "2.9.25",
-        "knex": "0.12.6",
-        "pg": "4.3.0",
-        "lodash": "3.9.3",
-        "moment": "2.19.3",
-        "coffee-script": "1.9.3"
+        "bluebird": "*",
+        "knex": "*",
+        "pg": "*",
+        "lodash": "*",
+        "moment": "*",
+        "coffeescript": "*"
     },
     "devDependencies": {
         "mocha": "1.18.2",
