@@ -15,6 +15,7 @@
     "dependencies": {
         "bluebird": "2.9.25",
         "knex": "*",
+        "ger_mysql_esm": "^0.0.2",
         "mysql": "*",
         "mysql2": "*",
         "pg": "*",
