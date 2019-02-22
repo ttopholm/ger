@@ -18,7 +18,7 @@
         "pg": "*",
         "lodash": "*",
         "moment": "*",
-        "coffeescript": "*"
+        "coffee-script": "*"
     },
     "devDependencies": {
         "mocha": "1.18.2",
